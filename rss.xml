@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Rescue. Renew. Repeat.]]></title>
         <description><![CDATA[Rescue. Renew. Repeat.]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/rescue-community-church/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 19 Mar 2016 01:27:18 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 19 Mar 2016 01:27:26 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/rescue-community-church/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e6834b48-44aa-4f3b-8da8-4c510b5fb47a.jpg">]]></description>
+            <link>https://thegrid.ai/rescue-community-church/logo/index.html</link>
+            <guid isPermaLink="false">40183c9c-d798-4011-95f0-0e49ae8e17ba</guid>
+            <pubDate>Sat, 19 Mar 2016 01:27:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/576128a2-27f1-4594-9e6b-487eddf9ade7.jpg">]]></description>
-            <link>undefinedafaf147e-31dd-412d-a0d9-86f57233d3db/index.html</link>
+            <link>https://thegrid.ai/rescue-community-church/afaf147e-31dd-412d-a0d9-86f57233d3db/index.html</link>
             <guid isPermaLink="false">afaf147e-31dd-412d-a0d9-86f57233d3db</guid>
             <pubDate>Sat, 19 Mar 2016 01:26:27 GMT</pubDate>
         </item>
